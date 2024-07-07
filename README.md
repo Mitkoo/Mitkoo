@@ -1,15 +1,10 @@
-### Hi, thank you for visiting my profile. I am building up my portfolio of web and automation development projects. 👋
+### Hi 👋 thank you for visiting my profile. I am building up my portfolio of web and automation development projects.
 
 My most used web stack and frameworks are:
-Java
-Spring
-JS
-React
+#Java #Spring #JS #React
 
 Automation, RPA tools and frameworks are:
-Python
-Robot framework
-UiPath (based on .NET)
+#Python #Robot framework #UiPath (based on .NET)
 
 <!--
 **Mitkoo/Mitkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
