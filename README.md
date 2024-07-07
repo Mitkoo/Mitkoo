@@ -1,4 +1,4 @@
-### Hi 👋 thank you for visiting my profile. I am building up my portfolio of web and automation development projects.
+### 👋 Hi, thank you for visiting my profile. I am building up my portfolio of web and automation development projects.
 
 My most used web stack and frameworks are:
 #Java #Spring #JS #React
