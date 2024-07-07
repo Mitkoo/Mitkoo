@@ -1,9 +1,9 @@
 ### 👋 Hi, thank you for visiting my profile. I am building up my portfolio of web and automation development projects.
 
-My most used web stack and frameworks are:
+My most used web stack and frameworks:
 #Java #Spring #JS #React
 
-Automation, RPA tools and frameworks are:
+Automation, RPA tools and frameworks:
 #Python #Robot framework #UiPath (based on .NET)
 
 <!--
